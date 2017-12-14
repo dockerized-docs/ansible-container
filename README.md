@@ -5,7 +5,7 @@ Dockerzied Ansible Container documentation for offline use.
 
 # Image description #
 - Base image: `centos/httpd-24-centos7`
-- The most current ansible `develelop` branch is cloned and built using Sphinx documentation generator
+- The most current ansible `develop` branch is cloned and built using Sphinx documentation generator
 
 # How to use this image #
 
