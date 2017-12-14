@@ -1,7 +1,7 @@
 FROM centos/httpd-24-centos7
 
 ENV SUMMARY="Ansible Container Documentation" \
-    DESCRIPTION="Ansible Container Documention as it seen in https://docs.ansible.com/ansible-container/. \
+    DESCRIPTION="Ansible Container Documentation as it seen in https://docs.ansible.com/ansible-container/. \
 The image is based on centos/httpd-24-centos7 to run unprivileged httpd container."
 
 LABEL summary="$SUMMARY" \
